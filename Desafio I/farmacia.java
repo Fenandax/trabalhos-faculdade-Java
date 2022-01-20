@@ -2,7 +2,7 @@
  * Fernanda Fiuza
  */
 
-public class Desafio1
+public class farmacia
 {
     public static void main(String args[]){
         //Entrada de Dados
