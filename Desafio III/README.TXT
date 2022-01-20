@@ -1,12 +1,17 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+Esse foi o terceiro programa em Java feito sozinha, a proposta era fazer um 
+programa para estudantes poderem alterar sua senha durante o cadastro. A 
+proposta era que se o estudante errasse a senha, teria que começar o programa
+novamente, e não continuar em looping até digitar corretamente.
+
+---------------------------------------------------------------------------------
+
+TÍTULO DO PROJETO: TesteFun4Study
+OBJETIVO DO PROJETO: Alteração de senha
+
+---------------------------------------------------------------------------------
+
+Foi usado a classe Teclado, fornecida pela própria faculdade para substituir a 
+classe Scanner.
+
